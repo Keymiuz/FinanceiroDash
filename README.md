@@ -23,6 +23,7 @@ Tailwind CSS
 Shadcn UI
 Recharts
 Next Themes
+(Se vc quiser rodar ele na sua máquina, só baixe o código, dê npm install e npm run dev)
 
 
 🛠 Status do Projeto
