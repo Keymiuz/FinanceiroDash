@@ -13,7 +13,7 @@ Um dashboard completo para acompanhar sua saúde financeira em tempo real.
 4. Personalização
 Modo claro e escuro utilizando Next Themes, permitindo que você escolha a aparência que mais combina com seu estilo.
 (Observação: Esta funcionalidade foi importada de um projeto anterior e está em processo de correção para garantir uma experiência ainda melhor.)
-![Captura de tela 2025-01-24 125719](https://github.com/user-attachments/assets/b48fc4c7-06df-4116-8dea-1887ae7c3f82)
+
 
 
 🚀 Tecnologias Utilizadas
