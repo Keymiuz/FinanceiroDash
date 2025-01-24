@@ -22,6 +22,8 @@ Tailwind CSS
 Shadcn UI
 Recharts
 Next Themes
+
+
 🛠 Status do Projeto
 O projeto está em desenvolvimento ativo, com melhorias contínuas para garantir a melhor experiência possível.
 
